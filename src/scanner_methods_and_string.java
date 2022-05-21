@@ -8,6 +8,5 @@ public class scanner_methods_and_string {
         String txt = scan.next();   // This line takes String user input.
         System.out.println(hi);
         System.out.println(txt);
-
     }
 }
