@@ -9,5 +9,14 @@ public class data_type {
         // Float Data type   < Data type with unlimited range but should not be used for precise values(a lot of decimals)>
         // Double Data type  < Data type with unlimited range usually used for decimal>
 
+        System.out.println("There are 8 data types");
+        System.out.println("1) Boolean");
+        System.out.println("2) Byte");
+        System.out.println("3) Char");
+        System.out.println("4) Short");
+        System.out.println("5) Int");
+        System.out.println("6) Long");
+        System.out.println("7) Float");
+        System.out.println("8) Double");
     }
 }
