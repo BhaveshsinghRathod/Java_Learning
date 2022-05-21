@@ -18,6 +18,7 @@ public class car_selector_part_I {
             System.out.println("R for Red");
             System.out.println("G for grey");
             String color = scan.next();
+
             if (color.equals("W") || color.equals("w")){
                 System.out.println("We have 2 models in White color");
             }
