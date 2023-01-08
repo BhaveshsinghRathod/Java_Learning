@@ -1,4 +1,4 @@
-public class Createing_variables {
+public class Creating_variables {
     public static void main (String[] args){
         // char
         char var1 = 'a';
